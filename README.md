@@ -1,16 +1,6 @@
-### Hi there 👋
-
-<!--
-**RolanCT/RolanCT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Oi! Eu sou Rólan Tembe👋
 
 - 🔭 Hoje Trabalho com Programação Java - back-end
 - 🌱 Estudando estrutura de dados e WordPress 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Como encontrar-me: rolantembe37@gmail.com
+
