@@ -1,7 +1,11 @@
-### Olá! Eu sou Rólan Tembe👋
+### Olá! Eu sou Rólan Tembe👋, não te limites ao que já é conhecido.
 
+- Enge. Informático e Telecomunicações
 - 🔭 Hoje Trabalho com Programação Java - back-end
-- 🌱 Estudando Estrutura de dados e WordPress...
+- 🌱 Estudando Estrutura de dados em Java e Python...
+-   Desenvolvimento Web
+-   Iniciate na Área de Cybersecurity
+-
 
 
 <div align="center">
